@@ -73,7 +73,7 @@ html {
     box-sizing: border-box;
 }
 */
-*,
+/*
 *:before,
 *:after {
     -webkit-box-sizing: inherit;
@@ -110,7 +110,7 @@ html {
 .main-nav li {
     display: block;
 }
-
+*/
 .main-nav li a {
     height: 70px;
     line-height: 70px;
