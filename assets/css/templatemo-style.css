@@ -5,7 +5,7 @@ Reflux Template
 https://templatemo.com/tm-531-reflux
 
 */
-
+/*
 @import url(fontawesome.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
 body {
@@ -20,7 +20,7 @@ body {
     background-size: cover;
     width: 100%;
 }
-
+*/
 
 /* Basic */
 /*
@@ -111,6 +111,7 @@ html {
     display: block;
 }
 */
+/*
 .main-nav li a {
     height: 70px;
     line-height: 70px;
@@ -128,9 +129,9 @@ html {
     background: #fff;
     color: #8c363e;
 }
-
+*/
 /* Sidebar Menu */
-
+/*
 .menu .image {
     margin-top: 60px;
 }
@@ -279,9 +280,10 @@ html {
     display: inline-block;
     line-height: 60px;
 }
-
+*/
 
 /* Section */
+/*
 .section {
     color: #fff;
     width: 55%;
@@ -316,7 +318,7 @@ html {
     color: #fff;
     letter-spacing: 0.5px;
 }
-
+*/
 /* Buttons */
 
 .white-button a {
@@ -359,7 +361,7 @@ button:hover {
 
 
 /* Left & Right Post */
-
+/*
 .right-image-post {
     margin-top: 60px;
     padding-top: 60px;
@@ -385,10 +387,10 @@ button:hover {
 .left-image-post .white-button {
     margin-top: 30px;
 }
-
+*/
 
 /* Services */
-
+/*
 .my-services .col-md-6 {
     padding-left: 5px;
     padding-right: 5px;
@@ -462,10 +464,10 @@ button:hover {
 .service-item:hover .fourth-service-icon {
     background-image: url(../images/fourth-main-icon.png);
 }
-
+*/
 
 /* My Work */
-
+/*
 section.my-work .section-heading {
     text-align: center;
     padding: 80px 45px 50px 45px;
@@ -625,10 +627,10 @@ figure.snip1321.hover:after {
   transform: rotateX(0);
   opacity: 0.9;
 }
-
+*/
 
 /* Contact Me */
-
+/*
 section.contact-me {
     border-bottom: none;
 }
@@ -673,7 +675,7 @@ section.contact-me {
 #contact {
     text-align: center;
 }
-
+*/
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;
