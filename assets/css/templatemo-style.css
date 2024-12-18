@@ -112,7 +112,7 @@ html {
     display: block;
 }
 */
-/*
+
 .main-nav li a {
     height: 70px;
     line-height: 70px;
@@ -124,7 +124,7 @@ html {
     transition: all 0.5s;
     border-top: 2px solid #fff;
 }
-
+/*
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
